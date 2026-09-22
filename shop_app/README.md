@@ -1,17 +1,22 @@
-# shop_app
+## 3. Shoe E-Commerce App
 
-A new Flutter project.
 
-## Getting Started
+# 👟 Shoe E-Commerce App
 
-This project is a starting point for a Flutter application.
+A modern, highly responsive Flutter e-commerce mobile/web application designed for browsing, searching, and managing footwear products across major brands like Nike, Adidas, Puma, Bata, Sparx, and Woodland.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+* **Dynamic Search & Filtering**: Live text search bar with brand-specific interactive filter chips.
+* **Offline-First Assets**: Uses local image assets (`assets/`) for consistent rendering without CORS dependency issues.
+* **Cart Management System**: Add items to cart with badge count updates and total price calculation.
+* **Polished UI/UX**: Clean light background theme (`#F8F9FA`), custom brand card backgrounds, and custom typography.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tech Stack
+* **Framework**: [Flutter](https://flutter.dev/)
+* **Language**: [Dart](https://dart.dev/)
+* **State Management**: `Provider`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+* Flutter SDK
